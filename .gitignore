@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.cache/
+.env*
+!.env.example
+*.tsbuildinfo
+docs/*.png
+docs/*.jpg
+docs/verification.json
